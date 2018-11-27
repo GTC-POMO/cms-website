@@ -1,1 +1,1 @@
-{"pages":[{"title":"Jacob","Background Color":"red"},{"title":"Dennis","Background Color":"blue"}],"currentPageIndex":1,"currentPage":{}}
+{"pages":[{"pageType":"textAnswer","title":"Who is your friend?","backgroundColor":"red"},{"pageType":"textAnswer","title":"What is your name?","backgroundColor":"pink"}],"currentPageIndex":1,"currentPage":{}}

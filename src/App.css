@@ -1,0 +1,14 @@
+.advance-button{
+  height:120px;
+  width:120px;
+}
+.title{
+  text-align: center;
+}
+.root-div{
+height:100vh;
+width:100vw;
+position:absolute;
+top:0;
+left:0;
+}
